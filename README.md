@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+# Ethical Stock Screener
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Multi-faith and values-based investing made simple
 
-## Available Scripts
+## Features
+- **Multiple Ethical Frameworks**: Islamic, ESG, Christian, Jewish, and Custom criteria
+- **Comprehensive Screening**: Quantitative and qualitative analysis
+- **Real-time Data**: Integration with major financial APIs
+- **Flexible Architecture**: Easy to add new screening methodologies
 
-In the project directory, you can run:
+## Supported Screening Types
 
-### `npm start`
+### 🕌 Islamic Finance (Halal Investing)
+- AAOIFI / Philippines
+- Dow Jones Islamic Market (DJIM)  
+- FTSE Shariah
+- MSCI Islamic
+- S&P 500 Shariah
+- Indonesia & Malaysia standards
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 🌱 ESG (Environmental, Social, Governance)
+- MSCI ESG Ratings
+- Sustainalytics ESG Risk
+- FTSE4Good
+- Custom ESG criteria
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### ✝️ Christian Values
+- Socially Responsible Investing (SRI)
+- Catholic investment principles
+- Protestant ethical guidelines
 
-### `npm test`
+### ✡️ Jewish Values (Kosher Investing)
+- Orthodox guidelines
+- Conservative principles
+- Reform standards
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🎯 Custom Criteria
+- Build your own screening methodology
+- Combine multiple frameworks
+- Set custom thresholds
 
-### `npm run build`
+## Tech Stack
+- React 18 + TypeScript
+- Yahoo Finance API
+- Tailwind CSS
+- Recharts
+- Extensible architecture for ML/AI features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Quick Start
+[Installation and setup instructions]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## API Integration
+[How to configure APIs]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Adding New Screening Types
+[Guide for extending the platform]
 
-### `npm run eject`
+## Contributing
+[Contribution guidelines]
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
+MIT License
